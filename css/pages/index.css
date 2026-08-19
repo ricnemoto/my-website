@@ -1,0 +1,19 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.header {
+    width: 100%;
+    height: min(50px);
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: .75rem;
+}
+
+.footer {
+  
+}
